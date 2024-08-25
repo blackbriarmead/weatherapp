@@ -1,0 +1,194 @@
+{
+    "Station_ID": {
+        "Caveats": false,
+        "Type":"VARCHAR(255)"
+    },
+    "Station_Name": {
+        "Caveats": false,
+        "Type":"VARCHAR(255)"
+    },
+    "YEAR": {
+        "Caveats": false,
+        "Type":"INTEGER"
+    },
+    "MONTH": {
+        "Caveats": false,
+        "Type":"INTEGER"
+    },
+    "DAY": {
+        "Caveats": false,
+        "Type":"INTEGER"
+    },
+    "HOUR": {
+        "Caveats": false,
+        "Type":"INTEGER"
+    },
+    "MINUTE": {
+        "Caveats": false,
+        "Type":"INTEGER"
+    },
+    "Latitude": {
+        "Caveats": false,
+        "Type":"float"
+    },
+    "Longitude": {
+        "Caveats": false,
+        "Type":"float"
+    },
+    "Elevation": {
+        "Caveats": false,
+        "Type":"float"
+    },
+    "temperature": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "dew_point_temperature": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "station_level_pressure": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "sea_level_pressure": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "wind_direction": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "wind_speed": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "wind_gust": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "precipitation": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "relative_humidity": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "wet_bulb_temperature": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "pres_wx_MW1": {
+        "Caveats": true,
+        "Type":"VARCHAR(255)"
+    },
+    "pres_wx_MW2": {
+        "Caveats": true,
+        "Type":"VARCHAR(255)"
+    },
+    "pres_wx_MW3": {
+        "Caveats": true,
+        "Type":"VARCHAR(255)"
+    },
+    "pres_wx_AU1": {
+        "Caveats": true,
+        "Type":"VARCHAR(255)"
+    },
+    "pres_wx_AU2": {
+        "Caveats": true,
+        "Type":"VARCHAR(255)"
+    },
+    "pres_wx_AU3": {
+        "Caveats": true,
+        "Type":"VARCHAR(255)"
+    },
+    "pres_wx_AW1": {
+        "Caveats": true,
+        "Type":"VARCHAR(255)"
+    },
+    "pres_wx_AW2": {
+        "Caveats": true,
+        "Type":"VARCHAR(255)"
+    },
+    "pres_wx_AW3": {
+        "Caveats": true,
+        "Type":"VARCHAR(255)"
+    },
+    "snow_depth": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "visibility": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "altimeter": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "pressure_3hr_change": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "sky_cover_1": {
+        "Caveats": true,
+        "Type":"VARCHAR(255)"
+    },
+    "sky_cover_baseht_1": {
+        "Caveats": true,
+        "Type":"VARCHAR(255)"
+    },
+    "sky_cover_2": {
+        "Caveats": true,
+        "Type":"VARCHAR(255)"
+    },
+    "sky_cover_baseht_2": {
+        "Caveats": true,
+        "Type":"VARCHAR(255)"
+    },
+    "sky_cover_3": {
+        "Caveats": true,
+        "Type":"VARCHAR(255)"
+    },
+    "sky_cover_baseht_3": {
+        "Caveats": true,
+        "Type":"VARCHAR(255)"
+    },
+    "precipitation_3_hour": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "precipitation_6_hour": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "precipitation_9_hour": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "precipitation_12_hour": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "precipitation_15_hour": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "precipitation_18_hour": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "precipitation_21_hour": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "precipitation_24_hour": {
+        "Caveats": true,
+        "Type":"float"
+    },
+    "remarks": {
+        "Caveats": true,
+        "Type":"VARCHAR(10485760)"
+    }
+}
